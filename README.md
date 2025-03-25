@@ -6,16 +6,8 @@
 
 ### **🔥 TECH STACK**  
 ```diff
-+ 🐍 Python       | 🦀 Rust        | ☕ Java  
-+ 🌐 HTML/CSS/JS  | 🎨 Tailwind    | ⚛ React  
-+ 🗃️ SQL          | 🧠 Algorithms  | 🖥️ OS Dev  
++ 🐍 Python       | 🦀 CPP        | ☕ Pascal  
 ```
-
----
-
-### **🚀 CURRENT PROJECTS**  
-- [**Secret Project X**](https://github.com/khoingexe/secret-project-x) *(AI-powered something...)*  
-- [**khoing.exe Tools**](https://github.com/khoingexe/khoing-tools) *(Terminal utilities in Rust)*  
 
 ---
 
