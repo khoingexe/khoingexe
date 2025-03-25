@@ -27,8 +27,7 @@
 
 ### **📫 CONNECT WITH ME**  
 [![ProtonMail](https://img.shields.io/badge/Email-khoing.exe@proton.me-8B89CC?style=flat&logo=protonmail)](mailto:khoing.exe@proton.me)  
-[![Twitter](https://img.shields.io/badge/Twitter-@khoingexe-1DA1F2?style=flat&logo=twitter)](https://twitter.com/khoingexe)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khoi_Nguyen-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khoi_Nguyen-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/khoi-nguyen-minh-b3b5a1358/))  
 
 ---
 
